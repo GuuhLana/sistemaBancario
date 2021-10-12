@@ -12,7 +12,7 @@
     
     
     
-  Segue abaixo Script SQL para criação do banco de dados no PostgreSQL
+  Segue abaixo Script SQL para criação dos clientes no banco de dados PostgreSQL
 
     INSERT INTO tb_conta (titular, numero, agencia, saldo)
     VALUES ('Elton Jones Manetti', '01', '10', 1750.00);
